@@ -1,0 +1,57 @@
+body{
+    text-align: center;
+    font-size: x-large;
+    color: white;
+}
+
+.line{
+    height: 6px;
+    margin: 8px auto;
+    width: 150px;
+    background-color: white;
+}
+
+#myCarousel img{
+    border-radius: 20px;
+    height: 400px;
+    width: 500px;
+}
+
+img{
+    border-radius: 20px;
+    height: 400px;
+    width: 500px;
+}
+
+#Definition{
+    background-color: rgb(255, 56, 56);
+    border-radius: 20px;
+    margin-bottom: 100px; 
+    color: white;
+}
+
+#img123{
+    margin: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+button{
+    border-radius: 20px;
+    background-color: rgb(69, 158, 18);
+    color: white;
+    border-width: 0px;
+}
+
+#tutorial{
+    background-color: rgb(255, 56, 56);
+    border-radius: 20px;
+    color: white;
+}
+
+#myCarousel {
+    background-color: rgb(255, 56, 56);
+}
